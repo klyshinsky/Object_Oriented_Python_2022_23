@@ -10,3 +10,7 @@
 Запись лекции: [часть 1](https://youtu.be/A1Q0P_TJptk) и [часть 2](https://youtu.be/5QZ9M4ZfqSU).
 
 [Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20220917.ipynb) - Библиотека typing. Векторизация текстов.  
+Запись лекции: [часть 1](https://youtu.be/T2Phk3OwO20) и [часть 2](https://youtu.be/3KZb2hznKwI).
+
+[Лекция 4](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20220924_operators_decorators.ipynb) - Внутреннее устройство классов и объектов с точки зрения программиста.
+
