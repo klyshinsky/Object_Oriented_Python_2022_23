@@ -12,5 +12,8 @@
 [Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20220917.ipynb) - Библиотека typing. Векторизация текстов.  
 Запись лекции: [часть 1](https://youtu.be/T2Phk3OwO20) и [часть 2](https://youtu.be/3KZb2hznKwI).
 
-[Лекция 4](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20220924_operators_decorators.ipynb) - Внутреннее устройство классов и объектов с точки зрения программиста.
+[Лекция 4](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20220924_operators_decorators.ipynb) - Внутреннее устройство классов и объектов с точки зрения программиста.  
+Запись лекции: [часть 1](https://youtu.be/ccUv_LyBQd8) и [часть 2](https://youtu.be/I9L4_NlxRdM).
 
+[Лекция 5, часть 1](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/Lecture_20221008_requests_dataclass.ipynb) - Основы библиотеки requests, dataclass.  
+[Лекция 5, часть 2](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221008_Inheritance.ipynb ) - Наследование.  
