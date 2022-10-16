@@ -17,3 +17,12 @@
 
 [Лекция 5, часть 1](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/Lecture_20221008_requests_dataclass.ipynb) - Основы библиотеки requests, dataclass.  
 [Лекция 5, часть 2](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221008_Inheritance.ipynb ) - Наследование.  
+Запись лекции: [часть 1](https://youtu.be/5P1Hy49dx3M) и [часть 2](https://youtu.be/K49qur41flc).
+
+[Лекция 6, часть 1](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221008_Inheritance.ipynb ) - Наследование.  
+[Запись лекции](https://youtu.be/smEpJM-4Dqw)  
+Лекция 6 часть 2 - рассуждения о принципах SOLID для проектирования структуры классов (с использованием материалов вот [этой](https://habr.com/ru/post/446816/) статьи).  
+[Запись](https://youtu.be/mtuBCUfryiI) голоса преподавателя.
+
+[Лекция 7](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221015_unittest.ipynb) - Файлы конфигурации, логирование, юнит-тесты.  
+
