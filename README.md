@@ -29,3 +29,4 @@
 
 [Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221105_software_design.pdf) - Презентация по технологии разработки программного обеспечения.  
 
+
