@@ -28,6 +28,14 @@
 Запись лекции: [часть 1](https://youtu.be/AgvPv6F1UbM) и [часть 2](https://youtu.be/xKKAT41S2tw).
 
 [Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221105_software_design.pdf) - Презентация по технологии разработки программного обеспечения.  
+Запись лекции: [часть 1](https://youtu.be/rSW5ZlywLcs) и [часть 2](https://youtu.be/NZAFaxqBOgs).
 
+[Лекция 9](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221112_software_architecture.pdf) - Презентация по архитектуре программного обеспечения.  
+Запись лекции: [часть 1](https://youtu.be/tUCxPoQK8nM) и [часть 2](https://youtu.be/-VF-DnSwsZQ).
 
-[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221126_design_patterns.ipynb) - Шаблоны разработки классов.  
+Лекция 10 - деловая игра со скрам-мастером.
+
+[Лекция 11](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221126_design_patterns.ipynb) - Шаблоны разработки классов.  
+Запись лекции: [часть 1](https://youtu.be/OSE0mg8Tnr4), [часть 2](https://youtu.be/1ApnzIdxj30) и [часть 3](https://youtu.be/roMV7-D5v4k).
+
+[Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221203_multiprocessing.ipynb) - Многопоточное программирование (без asyncio).
