@@ -40,6 +40,6 @@
 
 [Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221203_multiprocessing.ipynb) - Многопоточное программирование (без asyncio).
 
-[Лекция 13](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221217_Reduce_Space.ipynb) - Снижение размерности пространства признаков.  
-(https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221217_OpenCV.ipynb) - Обработка изображений и видео при помощи OpenCV.  
+[Лекция 13, часть 1](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221217_Reduce_Space.ipynb) - Снижение размерности пространства признаков.  
+[Лекция 13, часть 2](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221217_OpenCV.ipynb) - Обработка изображений и видео при помощи OpenCV.  
 
