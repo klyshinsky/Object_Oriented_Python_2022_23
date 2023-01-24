@@ -24,7 +24,7 @@
 Лекция 6 часть 2 - рассуждения о принципах SOLID для проектирования структуры классов (с использованием материалов вот [этой](https://habr.com/ru/post/446816/) статьи).  
 [Запись](https://youtu.be/mtuBCUfryiI) голоса преподавателя.
 
-[Лекция 7](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221015_unittest.ipynb) - Файлы конфигурации, логирование, юнит-тесты.  
+[Лекция 7](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221022_unittest.ipynb) - Файлы конфигурации, логирование, юнит-тесты.  
 Запись лекции: [часть 1](https://youtu.be/AgvPv6F1UbM) и [часть 2](https://youtu.be/xKKAT41S2tw).
 
 [Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2022_23/blob/main/lecture_20221105_software_design.pdf) - Презентация по технологии разработки программного обеспечения.  
